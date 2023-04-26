@@ -6,14 +6,9 @@
     "pages/category/category"
   ],
   "subPackages": [],
-  "window": {
-    "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "uni-app",
-    "navigationBarBackgroundColor": "#F8F8F8",
-    "backgroundColor": "#F8F8F8"
-  },
+  "window": {},
   "tabBar": {
-    "selectedColor": "#33CC00",
+    "selectedColor": "#339900",
     "list": [
       {
         "pagePath": "pages/home/home",
@@ -23,7 +18,7 @@
       },
       {
         "pagePath": "pages/Order_info/Order_info",
-        "text": "Order",
+        "text": "Order History",
         "iconPath": "static/tab_icons/cate.png",
         "selectedIconPath": "static/tab_icons/cate.png"
       },
